@@ -1,0 +1,19 @@
+$color-celeste:#00ffff;
+
+.tablas{
+    td{
+        width: 25%;
+        height: 25%;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+} 
+.contenedor-footer{
+    width: 100%;
+    height: 100px;
+    background-color: $color-celeste;
+         text-align: center;
+      
+    }

@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+$letra_top:normal 18px 'Courier New', Courier, monospace;
+$cool-1: white;
+$letra_menu:normal 13px 'arial';
+$cool-2: black;
+
+
+.letra_sobre_header{
+    font:$letra_top;
+    color: $cool-1;
+    background-color: black;
+}
+.letra_menu{
+     font:$letra_menu;
+     color: $cool-2;
+     text-decoration: none;
+}

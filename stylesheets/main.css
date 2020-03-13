@@ -402,6 +402,11 @@ body {
   position: absolute;
   width: 1px; }
 
+.contenedor_central {
+  background-color: aquamarine;
+  text-align: center;
+  height: 300px; }
+
 .menu {
   display: inline;
   text-align: center;
@@ -412,5 +417,11 @@ body {
 .icono_inicio {
   width: 20px;
   height: 20px; }
+
+.imagen_central {
+  position: relative;
+  top: 25px;
+  width: 1000px;
+  height: 250px; }
 
 /*# sourceMappingURL=main.css.map */
